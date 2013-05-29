@@ -1,0 +1,1 @@
+This plugin adds AFA accesibility satndard to Moodle
